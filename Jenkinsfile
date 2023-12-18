@@ -12,5 +12,5 @@
 // }
 
 @Library('roboshop@main') _
-
+env.COMPONENT="USER"
 nodejs()
