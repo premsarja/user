@@ -14,4 +14,5 @@
 @Library('roboshop@main') _
 
 env.COMPONENT="user"
+env.APPTYPE="nodejs"
 nodejs()
